@@ -1,2 +1,3 @@
 # Railway-ticket-reservation
-Railway ticket reservation system 
+
+This is a Java based standalone application built using javafx framework and Mysql.
